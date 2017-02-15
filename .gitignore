@@ -1,2 +1,5 @@
 # Ignore my virtualenv
 v/
+
+# Ignore checkpoints
+.ipynb_checkpoints/
